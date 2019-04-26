@@ -1,0 +1,3 @@
+rootProject.name = 'jazcash_eran_2748'
+
+include ':app'
